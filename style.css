@@ -8,5 +8,5 @@
   height: 100vh;
   background-image: url("./images/cute-bear.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 200px 200px;
 }
