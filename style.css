@@ -1,12 +1,13 @@
-.container {
+/* .container {
   height: 100vh;
   background-image: url("./images/cute-bear.png");
   background-repeat: no-repeat;
-  background-size: cover;
-}
+  background-size: cover; 
+}*/
 .compare {
   height: 100vh;
   background-image: url("./images/cute-bear.png");
   background-repeat: no-repeat;
   background-size: 200px 200px;
+  background-position: 300px 200px;
 }
