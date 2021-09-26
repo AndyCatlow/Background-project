@@ -25,3 +25,6 @@ no commas
 
   height: 100vh;
 }
+/* to get the linear-gradient to work the image must come first with the shorthand properties for that image followed by a comma
+background: image repeat attachment postition, linear-gradient()
+*/
